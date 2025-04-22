@@ -108,7 +108,6 @@ void decipher() {
 ```
 
 ## OUTPUT
-
 ![image](https://github.com/user-attachments/assets/ca2d9cc7-2980-4f23-a4dd-5476c428c31e)
 
 ## RESULT
